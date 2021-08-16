@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "burgers":[
     {
@@ -16,4 +17,24 @@
     }
   ]
 
+=======
+{
+  "burgers":[
+    {
+      "id": 0,
+      "name": "Veggie Burger",
+      "restaraunt": "DeadCool",
+      "ingrediants": ["Cheese", "Ham", "Tomato"],
+      "description": "This is a good burger"
+    },
+    {
+      "id": 1,
+      "name": "Meat Burger",
+      "restaraunt": "Meaty",
+      "ingrediants": ["Beef", "Rice", "Tomato"],
+      "description": "This is very meaty"
+    }
+  ]
+
+>>>>>>> Stashed changes
 }
